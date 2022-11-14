@@ -1,4 +1,4 @@
-let phrase = 'doing all the codes dickhead';
+let phrase = 'doing all the codes ';
 phrase = phrase.trim();
 
 let i = phrase.length;
